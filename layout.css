@@ -1,0 +1,45 @@
+div {
+    border: 5px solid #cb4b6b;
+    position: absolute;
+}
+
+
+.title {
+    top: 0px;
+    border: none;
+    left: 255px;
+    right: 0px;
+    height: 108px;
+}
+
+.footer{
+    bottom: 0px;
+    border: none;
+    left: 255px;
+    right: 0px;
+    height: 58px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.leftpanel{
+    border: none;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 250px;
+    background-color: #cb4b6b
+    
+
+
+}
+
+.mainpanel{
+    top:114px;
+    bottom: 64px;
+    border-left: none;
+    border-right: none;
+    left: 250px;
+    right: 0px;
+
+}
